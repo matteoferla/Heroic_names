@@ -1,0 +1,28 @@
+Juno
+Jupiter
+Neptune
+Ceres
+Minerva
+Apollo
+Diana
+Mars
+Venus
+Vulcan
+Mercury
+Vesta
+Bacchus
+Pluto
+Aphrodite 
+Apollo 
+Ares 
+Artemis 
+Athena 
+Demeter 
+Dionysus      3    C     17    P 
+Hephaestus      3    C     10    P 
+Hera      5    C     9    P 
+Hermes      5    C     15    P 
+Hestia      1    C     5    P 
+Poseidon      6    C     7    P 
+Zeus      7    C     9    P 
+Hades
