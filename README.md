@@ -28,56 +28,57 @@ A lot of popular names in Modern Greek are spelt differently than the commonly u
 The top 50 most common Greek hero/god/titan/princess/queen/king names are:
 
 | Name | Count |
-|Jason | 1033820|
-|Helen | 1021394|
-|Diana | 358861|
-|Phyllis | 323240|
-|Dana | 244562|
-|Ida | 186955|
-|Cassandra | 167631|
-|Claudia | 127063|
-|Iris | 80311|
-|Homer | 61034|
-|Penelope | 59152|
-|Griffin | 38703|
-|Paris | 36583|
-|Daphne | 35066|
-|Phoebe | 32518|
-|Asia | 31539|
-|Athena | 31186|
-|Phoenix | 22537|
-|Angelia | 22208|
-|Ulysses | 17249|
-|Rhea | 16397|
-|Orion | 15228|
-|Minerva | 15162|
-|Thalia | 12945|
-|Maia | 12815|
-|Venus | 8998|
-|Adonis | 8898|
-|Vesta | 8167|
-|Hellen | 7556|
-|Kale | 7411|
-|Halie | 7336|
-|Selene | 6611|
-|Memphis | 6254|
-|Meta | 6177|
-|Atlas | 4655|
-|Melia | 4570|
-|Linus | 4389|
-|Echo | 4021|
-|Cleta | 4012|
-|Charis | 3913|
-|Apollo | 3361|
-|Leda | 3318|
-|Ariadne | 3151|
-|Aura | 3140|
-|Titan | 3122|
-|Dione | 2893|
-|Pandora | 2811|
-|Arne | 2796|
-|Ares | 2625|
-|Gorge | 2602|
+| - | - |
+| Jason | 1033820|
+| Helen | 1021394|
+| Diana | 358861|
+| Phyllis | 323240|
+| Dana | 244562|
+| Ida | 186955|
+| Cassandra | 167631|
+| Claudia | 127063|
+| Iris | 80311|
+| Homer | 61034|
+| Penelope | 59152|
+| Griffin | 38703|
+| Paris | 36583|
+| Daphne | 35066|
+| Phoebe | 32518|
+| Asia | 31539|
+| Athena | 31186|
+| Phoenix | 22537|
+| Angelia | 22208|
+| Ulysses | 17249|
+| Rhea | 16397|
+| Orion | 15228|
+| Minerva | 15162|
+| Thalia | 12945|
+| Maia | 12815|
+| Venus | 8998|
+| Adonis | 8898|
+| Vesta | 8167|
+| Hellen | 7556|
+| Kale | 7411|
+| Halie | 7336|
+| Selene | 6611|
+| Memphis | 6254|
+| Meta | 6177|
+| Atlas | 4655|
+| Melia | 4570|
+| Linus | 4389|
+| Echo | 4021|
+| Cleta | 4012|
+| Charis | 3913|
+| Apollo | 3361|
+| Leda | 3318|
+| Ariadne | 3151|
+| Aura | 3140|
+| Titan | 3122|
+| Dione | 2893|
+| Pandora | 2811|
+| Arne | 2796|
+| Ares | 2625|
+| Gorge | 2602|
 
 ## Trends
 Unsurprisingly, the distribution is a power law like curve, with some familiar names utterly dominant ('Jason', 'Helen', etc.).
@@ -147,6 +148,8 @@ Unfortunately, it the census data there is no way of known whether there are an 
 ## Twelve olympians
 Of the 13+1 twelve olympians, there is a curious happening with the Latin and Greek versions. Where it not for Diana, the Greeks would win!
 
+| Greek | count | Roman | count |
+| - | -  | - | - |
 | Zeus | 1,327.0 | Jupiter | 412.0  | 
 | Hera | 493.0 | Juno | 837.0  | 
 | Poseidon | 133.0 | Neptune | -    | 
@@ -161,6 +164,7 @@ Of the 13+1 twelve olympians, there is a curious happening with the Latin and Gr
 | Hephaestus | -   | Vulcan | -    | 
 | Hestia | 6.0 | Vesta | 8,167.0  | 
 | Dionysus | 32.0 | Bacchus | -  |
+
  
 
 
