@@ -1,10 +1,31 @@
 # Heroic_names
-Analysis of Greek hero names in the US census data.
+Analysis of Greek hero names in the US census data.           
+(&lowast; &mdash; the names are up to the Heroic age (Trojan war), which predates when the Hellenic people were actually called Greeks)
 
 ## Hipsters and Greek heroes
 How many people are called Antigone?         
 I am reading Stephen Fry's Heroes, which is a lovely book. I am getting barraged by names, lots of names, some "amazing".      
 This led me to wonder what the frequency of these names is.
+
+
+## Summary
+Names are popular based on sounds, preferably if they are 5 letters long &mdash;less so, but upto 7 for girl's names.
+THe exceptions are names that are very commonly know to belong to negative characters (cf. Hades vs. Electra).
+
+In fact, Venus is more popular than Aphrodites as the Roman goddess is probably better know and is shorter.
+And Prometheus is less common than Atlas despite the fact that his punishment lasted for much less and he was the progenitor of humanity.
+But he is more known than his lackadaisical brother Epimetheus, which is seen.
+
+To summarise the best cases I made a pretty graph in Illustrator. It is still as heavy a Matlab I'd have drawn and possibly not very artsy.
+
+![info](greeks-01.jpg)
+Classifying the heroes to tell the reader about the hero was extremely subjective and 21st century tinted:
+      
+* The demarcation hero vs. villain is very Hollywoodian, in fact, neither Achilles or Hector were the villian.
+* A concept that does play a big role in the stories than does not these days is hubris.
+* Women in Greek myth are not lucky. Medea basically saved the Argo in every chapter, but you also get the nasty "oh, no, that woman is a witch" vibe. I scored several as heroes if they were strong in determination.
+
+
 
 ## Data
 Consequenly I used the [US census data](https://www.ssa.gov/oact/babynames/limits.html) to find out the frequency of names.        
@@ -116,6 +137,7 @@ This does not hold true for all...
 * Jason 1,028,809 vs. Medea 202
 * Perseus 405 vs. Andromeda 840
 * Theseus 233 vs. Ariadne 3151
+* Orpheus 76 vs. Eurydice 67 (How is this possible??)
 * Heracles 0 (1168 for Hercules) vs. lots of wives and lovers... all 0 &mdash; including Hippolyta!
 * Orion 15228 vs. Merope 0
 * Atalanta 5 vs. Hippomenes 0
