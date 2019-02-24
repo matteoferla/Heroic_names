@@ -23,8 +23,12 @@ Classifying the heroes to tell the reader about the hero was extremely subjectiv
       
 * The demarcation hero vs. villain is very Hollywoodian, in fact, neither Achilles or Hector were the villian.
 * A concept that does play a big role in the stories than does not these days is hubris.
-* Women in Greek myth are not lucky. Medea basically saved the Argo in every chapter, but you also get the nasty "oh, no, that woman is a witch" vibe. I scored several as heroes if they were strong in determination.
+* Women in Greek myth are not lucky. Medea basically saved the Argo in every chapter, but you also get the nasty "oh, no, that woman is a witch" vibe. I scored several women as heroes because they were doing better than their piers &mdash;Andromeda is positively ninja-level badass compared to, say, Eurydice.
 
+### Future
+
+* **Letter count** I have not looked into the letter distribution too much as the conclusions are probably obvious.
+* **Popularity** Wikipedia page views are a great way to see how renown heroes are today, however, figuring out who is a positive or negative person would require some subjective scoring.
 
 
 ## Data
